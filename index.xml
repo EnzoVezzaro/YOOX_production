@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YOOX Net-A-Porter Group</title>
-    <link>https://enzovezzaro.github.io/YOOX/index.xml</link>
+    <link>https://enzovezzaro.github.io/YOOX_production/index.xml</link>
     <description>Recent content on YOOX Net-A-Porter Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://enzovezzaro.github.io/YOOX/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://enzovezzaro.github.io/YOOX_production/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://enzovezzaro.github.io/YOOX/tabs/01-one/</link>
+      <link>https://enzovezzaro.github.io/YOOX_production/tabs/01-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://enzovezzaro.github.io/YOOX/tabs/01-one/</guid>
+      <guid>https://enzovezzaro.github.io/YOOX_production/tabs/01-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://enzovezzaro.github.io/YOOX/tabs/02-two/</link>
+      <link>https://enzovezzaro.github.io/YOOX_production/tabs/02-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://enzovezzaro.github.io/YOOX/tabs/02-two/</guid>
+      <guid>https://enzovezzaro.github.io/YOOX_production/tabs/02-two/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://enzovezzaro.github.io/YOOX/tabs/03-three/</link>
+      <link>https://enzovezzaro.github.io/YOOX_production/tabs/03-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://enzovezzaro.github.io/YOOX/tabs/03-three/</guid>
+      <guid>https://enzovezzaro.github.io/YOOX_production/tabs/03-three/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://enzovezzaro.github.io/YOOX/tabs/04-four/</link>
+      <link>https://enzovezzaro.github.io/YOOX_production/tabs/04-four/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://enzovezzaro.github.io/YOOX/tabs/04-four/</guid>
+      <guid>https://enzovezzaro.github.io/YOOX_production/tabs/04-four/</guid>
       <description></description>
     </item>
     
